@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا عيوني أنتِ نور حياتي
+> في ظلام الليل أنتِ نجاتي
+> قلبي ينادي لكِ في كل حين
+> ومعكِ الحب يصبح يقين
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
